@@ -1,5 +1,5 @@
 name: "Bug"
-description: "버그가 생겼어요 👾"
+description: "버그가 발생했나요?"
 labels:
   - bug
 body:
